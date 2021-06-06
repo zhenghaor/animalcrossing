@@ -12,8 +12,8 @@ tags:
   - dodo code
   - friend code
 gallery:
-  - url: /assets/images/animal-crossing-codes.com.png
-    image_path: /assets/images/animal-crossing-codes.com.png
+  - url: /assets/images/animal-crossing-codes.com.jpg
+    image_path: /assets/images/animal-crossing-codes.com.jpg
     alt: "Animal Crossing Code Sharing"
     title: "Animal Crossing Code Sharing"
 ---
@@ -22,5 +22,5 @@ gallery:
 
 > https://animal-crossing-codes.com/en
 
-[![Animal Crossing Dream Address Codes](https://animalcrossing.design/assets/images/animal-crossing-codes.com.png)](https://animal-crossing-codes.com/en)
+[![Animal Crossing Dream Address Codes](https://animalcrossing.design/assets/images/animal-crossing-codes.com.jpg)](https://animal-crossing-codes.com/en)
 

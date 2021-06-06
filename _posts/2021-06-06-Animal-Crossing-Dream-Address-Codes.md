@@ -10,8 +10,8 @@ categories:
 tags:
   - dream code
 gallery:
-  - url: /assets/images/nooksisland.com.png
-    image_path: /assets/images/nooksisland.com.png
+  - url: /assets/images/nooksisland.com.jpg
+    image_path: /assets/images/nooksisland.com.jpg
     alt: "Animal Crossing Dream Address Codes"
     title: "Animal Crossing Dream Address Codes"
 ---
@@ -20,5 +20,5 @@ gallery:
 
 > https://nooksisland.com/dream-addresses
 
-[![Animal Crossing Dream Address Codes](https://animalcrossing.design/assets/images/nooksisland.com.png)](https://nooksisland.com/dream-addresses)
+[![Animal Crossing Dream Address Codes](https://animalcrossing.design/assets/images/nooksisland.com.jpg)](https://nooksisland.com/dream-addresses)
 
