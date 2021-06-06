@@ -1,5 +1,9 @@
 ---
 title: "Post: Gallery"
+toc: true
+toc_label: "Unique Title"
+toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
+toc_sticky: true
 categories:
   - blog
 tags:
@@ -10,6 +14,10 @@ gallery:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 ---
+
+### Chapter 1
+
+### Chapter 2
 
 These are gallery tests for image wrapped in `<figure>` elements.
 
@@ -24,6 +32,8 @@ And then drop-in the gallery include --- gallery `caption` is optional.
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
+
+### Chapter 3
 
 [![image1](https://animalcrossing.design/assets/images/image1.jpg)](https://www.bilibili.com)
 
