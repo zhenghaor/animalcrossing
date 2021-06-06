@@ -1,5 +1,5 @@
 ---
-title: "Animal Crossing Code Sharing"
+title: "animal-crossing-codes.com"
 date: 2021-06-06T21:00:00-08:00
 toc: true
 toc_label: "URLs"
@@ -8,9 +8,9 @@ toc_sticky: true
 categories:
   - website
 tags:
-  - dream code
-  - dodo code
-  - friend code
+  - dream codes
+  - dodo codes
+  - friend codes
 gallery:
   - url: /assets/images/animal-crossing-codes.com.jpg
     image_path: /assets/images/animal-crossing-codes.com.jpg

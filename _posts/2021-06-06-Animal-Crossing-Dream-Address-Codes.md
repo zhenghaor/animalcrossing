@@ -1,5 +1,5 @@
 ---
-title: "Animal Crossing Dream Address Codes"
+title: "nooksisland.com"
 date: 2021-06-06T20:00:00-08:00
 toc: true
 toc_label: "URLs"
@@ -8,7 +8,7 @@ toc_sticky: true
 categories:
   - website
 tags:
-  - dream code
+  - dream codes
 gallery:
   - url: /assets/images/nooksisland.com.jpg
     image_path: /assets/images/nooksisland.com.jpg
