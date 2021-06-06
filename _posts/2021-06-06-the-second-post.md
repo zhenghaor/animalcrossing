@@ -25,5 +25,5 @@ And then drop-in the gallery include --- gallery `caption` is optional.
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 
-[![foo](../assets/images/image1.jpg)](https://www.bilibili.com)
+[![image1](https://animalcrossing.design/assets/images/image1.jpg)](https://www.bilibili.com)
 
