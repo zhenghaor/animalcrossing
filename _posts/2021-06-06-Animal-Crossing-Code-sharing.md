@@ -18,7 +18,7 @@ gallery:
     title: "Animal Crossing Code Sharing"
 ---
 
-### animal-crossing-codes.com
+### https://animal-crossing-codes.com
 
 #### [Dream Codes, Dodo Codes, Friend Codes](https://animal-crossing-codes.com/en)
 
