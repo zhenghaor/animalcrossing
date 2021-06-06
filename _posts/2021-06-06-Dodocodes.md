@@ -14,11 +14,13 @@ tags:
 
 ### https://dodocodes.com
 
-> https://dodocodes.com/designs
-
-[![Design Codes](https://animalcrossing.design/assets/images/dodocodes.com.designs.jpg)](https://dodocodes.com/designs)
-
-> https://dodocodes.com/designs
+#### [Dream Codes](https://dodocodes.com/dreams)
 
 [![Dream Codes](https://animalcrossing.design/assets/images/dodocodes.com.dreams.jpg)](https://dodocodes.com/dreams)
+
+---
+
+#### [Design Codes](https://dodocodes.com/designs)
+
+[![Design Codes](https://animalcrossing.design/assets/images/dodocodes.com.designs.jpg)](https://dodocodes.com/designs)
 
