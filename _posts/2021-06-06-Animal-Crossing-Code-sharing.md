@@ -20,7 +20,7 @@ gallery:
 
 ### animal-crossing-codes.com
 
-> https://animal-crossing-codes.com/en
+#### [Dream Codes, Dodo Codes, Friend Codes](https://animal-crossing-codes.com/en)
 
 [![Animal Crossing Dream Address Codes](https://animalcrossing.design/assets/images/animal-crossing-codes.com.jpg)](https://animal-crossing-codes.com/en)
 

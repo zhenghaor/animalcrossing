@@ -55,20 +55,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Haoran ZHENG"
+  name   : "Isabelle"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : ""
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/zhenghaor"
-
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/zhenghaor"
-
+  bio    : "Isabelle, known as Shizue in Japan, is a fictional character from the Animal Crossing series of video games. She is a kindly Shih Tzu that debuted in the 2012 release Animal Crossing: New Leaf, where she serves as the secretary to the player character."
 defaults:
   # _posts
   - scope:
