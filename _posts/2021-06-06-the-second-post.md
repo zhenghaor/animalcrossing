@@ -1,11 +1,9 @@
 ---
 title: "Post: Gallery"
 categories:
-  - Post Formats
+  - blog
 tags:
   - gallery
-  - Post Formats
-  - tiled
 gallery:
   - url: /assets/images/image1.jpg
     image_path: /assets/images/image1.jpg
@@ -25,4 +23,7 @@ And then drop-in the gallery include --- gallery `caption` is optional.
 ```
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
+
+[![foo](../assets/images/image1.jpg)](https://www.bilibili.com)
 
