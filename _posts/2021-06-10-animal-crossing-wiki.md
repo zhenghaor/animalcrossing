@@ -26,3 +26,11 @@ tags:
 #### https://www.usgamer.net/articles/animal-crossing-new-horizons-beginners-guide-and-walkthrough
 
 #### https://animalcrossing.fandom.com
+
+#### https://icebr.art
+
+#### https://nookplaza.net
+
+#### https://acpatterngallery.com
+
+#### https://villagerdb.com
