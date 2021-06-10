@@ -13,24 +13,24 @@ tags:
 
 ### Officlal Site
 
-#### https://animal-crossing.com
+- https://animal-crossing.com
 
 ### Other wikis
 
-#### https://animalcrossing.fandom.com
+- https://animalcrossing.fandom.com
 
-#### https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide
+- https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide
 
-#### https://www.nintendolife.com/guides/animal-crossing-new-horizons-guide-walkthrough-tips-and-hints
+- https://www.nintendolife.com/guides/animal-crossing-new-horizons-guide-walkthrough-tips-and-hints
 
-#### https://www.usgamer.net/articles/animal-crossing-new-horizons-beginners-guide-and-walkthrough
+- https://www.usgamer.net/articles/animal-crossing-new-horizons-beginners-guide-and-walkthrough
 
-#### https://animalcrossing.fandom.com
+### Item Lists
 
-#### https://icebr.art
+- https://icebr.art
 
-#### https://nookplaza.net
+- https://nookplaza.net
 
-#### https://acpatterngallery.com
+- https://acpatterngallery.com
 
-#### https://villagerdb.com
+- https://villagerdb.com
