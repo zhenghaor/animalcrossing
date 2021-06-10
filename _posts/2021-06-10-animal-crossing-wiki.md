@@ -11,14 +11,18 @@ tags:
   - wiki
 ---
 
-### https://animalcrossing.fandom.com
+### Officlal Site
 
-### https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide
+#### https://animal-crossing.com
 
-### https://www.nintendolife.com/guides/animal-crossing-new-horizons-guide-walkthrough-tips-and-hints
+### Other wikis
 
-### https://www.usgamer.net/articles/animal-crossing-new-horizons-beginners-guide-and-walkthrough
+#### https://animalcrossing.fandom.com
 
-### https://animalcrossing.fandom.com
+#### https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide
 
-### https://animalcrossing.fandom.com
+#### https://www.nintendolife.com/guides/animal-crossing-new-horizons-guide-walkthrough-tips-and-hints
+
+#### https://www.usgamer.net/articles/animal-crossing-new-horizons-beginners-guide-and-walkthrough
+
+#### https://animalcrossing.fandom.com
